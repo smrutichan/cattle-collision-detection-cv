@@ -39,7 +39,7 @@ To build a real-time detection system that identifies cattle and estimates colli
 
 ## 🎥 Demo
 
-[![Watch Demo](videos/demo-thumbnail.png)](videos/demo.mp4)
+https://github.com/smrutichan/cattle-collision-detection-cv/blob/main/videos/demo.mp4
 
 ---
 
